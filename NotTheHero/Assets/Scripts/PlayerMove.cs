@@ -15,8 +15,6 @@ public class PlayerMove : MonoBehaviour {
 	void Update () {
 		transform.Translate (Vector3.right * Input.GetAxis ("Horizontal") * speed * Time.deltaTime);
 		transform.Translate (Vector3.up * Input.GetAxis ("Vertical") * speed * Time.deltaTime);
-        UnityArmatureComponent armatureComponent = GetComponent<UnityArmatureComponent>();
-        armatureComponent.animation.FadeIn("Walk", 0.25f, -1);
     }
     
     
