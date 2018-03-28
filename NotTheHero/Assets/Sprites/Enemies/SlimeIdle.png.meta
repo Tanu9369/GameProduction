@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: f44292e12981607428d37d068404a09d
+timeCreated: 1522207530
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SlimeIdle_0
+    21300002: SlimeIdle_1
+    21300004: SlimeIdle_2
+    21300006: SlimeIdle_3
+    21300008: SlimeIdle_4
+    21300010: SlimeIdle_5
+    21300012: SlimeIdle_6
+    21300014: SlimeIdle_7
+    21300016: SlimeIdle_8
+    21300018: SlimeIdle_9
+    21300020: SlimeIdle_10
+    21300022: SlimeIdle_11
+    21300024: SlimeIdle_12
+    21300026: SlimeIdle_13
+    21300028: SlimeIdle_14
+    21300030: SlimeIdle_15
+    21300032: SlimeIdle_16
+    21300034: SlimeIdle_17
+    21300036: SlimeIdle_18
+    21300038: SlimeIdle_19
+    21300040: SlimeIdle_20
+    21300042: SlimeIdle_21
+    21300044: SlimeIdle_22
+    21300046: SlimeIdle_23
+    21300048: SlimeIdle_24
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlimeIdle_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1848
+        width: 404
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_1
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1848
+        width: 401
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_2
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1848
+        width: 397
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_3
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1848
+        width: 395
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_4
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1848
+        width: 394
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1389
+        width: 389
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_6
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1389
+        width: 386
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1389
+        width: 390
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_8
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1389
+        width: 394
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_9
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 1389
+        width: 397
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 930
+        width: 398
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_11
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 930
+        width: 401
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_12
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 930
+        width: 403
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_13
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 931
+        width: 409
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_14
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 931
+        width: 414
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 472
+        width: 419
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_16
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 472
+        width: 424
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_17
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 472
+        width: 428
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_18
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 472
+        width: 433
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_19
+      rect:
+        serializedVersion: 2
+        x: 2626
+        y: 472
+        width: 428
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 13
+        width: 423
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_21
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 13
+        width: 418
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_22
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 13
+        width: 415
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_23
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 13
+        width: 409
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SlimeIdle_24
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 12
+        width: 404
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
