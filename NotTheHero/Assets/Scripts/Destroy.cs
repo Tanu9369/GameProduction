@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Destroy : MonoBehaviour {
 
@@ -20,6 +21,10 @@ public class Destroy : MonoBehaviour {
 		if (other.gameObject.tag == "Player") {
 			Instantiate (blood, transform.position, Quaternion.identity);
 			Destroy (gameObject);
+		}
+		if (other.gameObject.name == "Demon King") {
+			Application.LoadLevel ("Win Screen");
+
 		}
 	}
 }

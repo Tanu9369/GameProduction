@@ -24,6 +24,7 @@ GameObject:
   - component: {fileID: 114906535939398620}
   - component: {fileID: 114653864513276440}
   - component: {fileID: 61005696282680730}
+  - component: {fileID: 114682185499438800}
   m_Layer: 0
   m_Name: Demon King
   m_TagString: Boss
@@ -38,7 +39,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1528722318945554}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.33, y: -6.94, z: 0}
+  m_LocalPosition: {x: 99.0509, y: 7.200179, z: 0}
   m_LocalScale: {x: 3.128835, y: 3.1288364, z: 3.1288364}
   m_Children: []
   m_Father: {fileID: 0}
@@ -98,6 +99,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   blood: {fileID: 1004200423082228, guid: e0302f9e02adfe6489fba5d60596c4d6, type: 2}
+--- !u!114 &114682185499438800
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1528722318945554}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c57f6b56025222047b6c270eccd547d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dead: 0
+  boss1: {fileID: 1528722318945554}
+  boss2: {fileID: 1325482863680708, guid: 899988141da8ff742afa198d5bf74244, type: 2}
 --- !u!114 &114906535939398620
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -111,7 +126,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   target: {fileID: 0}
-  chaseRange: 100
+  chaseRange: 30
 --- !u!212 &212428623815610520
 SpriteRenderer:
   m_ObjectHideFlags: 1

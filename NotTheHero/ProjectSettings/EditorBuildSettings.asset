@@ -9,5 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: f365ae99494f8214f8c260d83cde60b4
   - enabled: 1
-    path: Assets/Game.unity
+    path: Assets/Scenes/Game.unity
     guid: c25078dbd2bed9349b42cd233097a46b
+  - enabled: 1
+    path: Assets/Scenes/Win Screen.unity
+    guid: e94b73381fc9366458db2fbc439c9e00
+  - enabled: 1
+    path: Assets/Scenes/Lose Screen.unity
+    guid: aa2b20ad67cf7b74f8f7847955ae1f15
