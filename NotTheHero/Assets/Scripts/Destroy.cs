@@ -19,7 +19,7 @@ public class Destroy : MonoBehaviour {
 	void OnTriggerEnter2D(Collider2D other){
 		if (other.gameObject.tag == "Player") {
 			Instantiate (blood, transform.position, Quaternion.identity);
-			Destroy(gameObject);
+			Destroy (gameObject);
 		}
 	}
 }
