@@ -113,11 +113,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &216659533 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 1325482863680708, guid: 899988141da8ff742afa198d5bf74244,
-    type: 2}
-  m_PrefabInternal: {fileID: 1932203957}
 --- !u!1001 &319243600
 Prefab:
   m_ObjectHideFlags: 0
@@ -228,8 +223,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c57f6b56025222047b6c270eccd547d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dead: 0
-  boss: {fileID: 216659533}
+  blood: {fileID: 0}
 --- !u!1001 &992516437
 Prefab:
   m_ObjectHideFlags: 0
@@ -560,6 +554,11 @@ Prefab:
       propertyPath: target
       value: 
       objectReference: {fileID: 1646491355}
+    - target: {fileID: 114650895292056358, guid: 899988141da8ff742afa198d5bf74244,
+        type: 2}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 899988141da8ff742afa198d5bf74244, type: 2}
   m_IsPrefabParent: 0
