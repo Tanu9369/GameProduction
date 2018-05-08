@@ -1,14 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using DragonBones;
 
 public class PlayerMove : MonoBehaviour {
 
 	// Use this for initialization
 	public float speed = 10f;
 	bool facingLeft=false;
-
 	void Start () {
 
 	}
