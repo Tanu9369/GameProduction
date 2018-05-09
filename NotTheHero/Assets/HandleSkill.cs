@@ -83,7 +83,7 @@ public class HandleSkill : MonoBehaviour {
 			bulletSpawn.rotation);
 
 		// Add velocity to the bullet
-		bullet.GetComponent<Rigidbody>().velocity = bullet.transform.forward * 6;
+		bullet.GetComponent<Rigidbody>().velocity = bullet.transform.
 
 		// Destroy the bullet after 2 seconds
 		Destroy(bullet, 3.0f);
