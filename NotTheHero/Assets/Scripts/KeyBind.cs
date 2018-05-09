@@ -16,10 +16,10 @@ public class KeyBind : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        keys.Add("Up",  (KeyCode)System.Enum.Parse(typeof(KeyCode), PlayerPrefs.GetString("Up", "KeyPad8")));
-        keys.Add("Down", (KeyCode)System.Enum.Parse(typeof(KeyCode), PlayerPrefs.GetString("Down", "KeyPad5")));
-        keys.Add("Left", (KeyCode)System.Enum.Parse(typeof(KeyCode), PlayerPrefs.GetString("Left", "KeyPad4")));
-        keys.Add("Right", (KeyCode)System.Enum.Parse(typeof(KeyCode), PlayerPrefs.GetString("Right", "KeyPad6")));
+        keys.Add("Up",  (KeyCode)System.Enum.Parse(typeof(KeyCode), PlayerPrefs.GetString("Up", "ArrowUp")));
+        keys.Add("Down", (KeyCode)System.Enum.Parse(typeof(KeyCode), PlayerPrefs.GetString("Down", "ArrowDown")));
+        keys.Add("Left", (KeyCode)System.Enum.Parse(typeof(KeyCode), PlayerPrefs.GetString("Left", "ArrowLeft")));
+        keys.Add("Right", (KeyCode)System.Enum.Parse(typeof(KeyCode), PlayerPrefs.GetString("Right", "ArrowRight")));
 
         up.text = keys["Up"].ToString();
         down.text = keys["Down"].ToString();
